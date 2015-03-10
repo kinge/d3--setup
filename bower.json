@@ -1,0 +1,25 @@
+{
+  "name": "d3",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kinge/d3--setup",
+  "authors": [
+    "Dan King <Danking84@gmail.com>"
+  ],
+  "description": "d3 starter project",
+  "keywords": [
+    "d3"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.5.5",
+    "skeleton": "~2.0.4"
+  }
+}
